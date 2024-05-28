@@ -32,6 +32,11 @@
   ##Próximos passos
    - Implementação de testes unitários
 
+  ## Para executar o projeto.
+   - Faça o clone do repositório.
+   - npm install
+   - crie os arquivos .env e defina as variáveis de ambiente exemplificadas nos arquivos .example
+
 
 
   
